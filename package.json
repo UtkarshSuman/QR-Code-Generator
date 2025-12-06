@@ -1,0 +1,19 @@
+{
+  "name": "qrcodegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "qrGenerator.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "inquirer": "^13.0.2",
+    "open": "^11.0.0",
+    "qr-image": "^3.2.0"
+  }
+}
